@@ -139,7 +139,7 @@ public class UserServiceImpl implements UserService{
 		User u3=new User(103,"deepak","13jun2020","formal",l3);
 		User u4=new User(104,"kamya","30sep2020","formal",l4);
 		User u5=new User(105,"ujjwal","03mar2020","formal",l5);
-		User u6=new User(106,"sakshi","30sep2020","sneakers",l6);
+		User u6=new User(106,"radha","30sep2020","sneakers",l6);
 		User u7=new User(107,"sumit","11sep2020","trekking",l7);
 		User u8=new User(108,"amit","03sep2020","formal",l8);
 		User u9=new User(109,"shyam","22oct2020","formal",l9);
