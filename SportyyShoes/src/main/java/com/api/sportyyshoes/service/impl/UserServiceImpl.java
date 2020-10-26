@@ -144,7 +144,7 @@ public class UserServiceImpl implements UserService{
 		User u8=new User(108,"amit","03sep2020","formal",l8);
 		User u9=new User(109,"shyam","22oct2020","formal",l9);
 		User u10=new User(110,"amit","13jun2020","trekking",l10);
-		User u11=new User(111,"sumit","22oct2020","trekking",l11);
+		User u11=new User(111,"gopal","22oct2020","trekking",l11);
 		
 		repository.save(u1);
 		repository.save(u2);
